@@ -1,5 +1,5 @@
-# Bank
-Создание сайта без использования фреймворка Bootstrap 4 и анимации, верстка по макету PSD
-с подключением плагинов Jquery и препроцессора LESS.
-Адаптация под любые мобильные устройства, кроссбраузерность.
+# Adaptive layout
+Creating website with help of Bootstrap 4, Jquery. One of the first responsible work.
+
+[Demonstration](https://bank/web-semenov.ru/ "on my website")
 
